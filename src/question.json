@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "question": "What is the fastest way to lose friends?",
+      "answer": [
+        { "text": "Forget their birthday", "correct": false },
+        { "text": "Correct their grammar online", "correct": false },
+        { "text": "Ignore their texts", "correct": true },
+        { "text": "Ask them to do work for you", "correct": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is the actual reason for Wifi not working?",
+      "answer": [
+        { "text": "Router needs some attention", "correct": false },
+        { "text": "Network is down", "correct": false },
+        { "text": "You are not paying the bill", "correct": true },
+        { "text": "You are not using it properly", "correct": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of these is the biggest fear of adults?",
+      "answer": [
+        { "text": "Public speaking", "correct": false },
+        { "text": "Accidentally clicking 'Reply All'", "correct": true },
+        { "text": "Forgetting to pay the bills", "correct": false },
+        { "text": "Being alone", "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What’s the fastest way to hurt your close friend?",
+      "answer": [
+        { "text": "Ignore their messages", "correct": false },
+        { "text": "Reply very late", "correct": false },
+        { "text": "Reply within a line", "correct": false },
+        { "text": "All of the above", "correct": true }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What’s the most common way to embarrass yourself in public?",
+      "answer": [
+        { "text": "Trip over nothing", "correct": false },
+        { "text": "Wave at someone who wasn’t waving at you", "correct": true },
+        { "text": "Forget names", "correct": false },
+        { "text": "Sing out loud with headphones on", "correct": false }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What’s the best way to ruin a group project?",
+      "answer": [
+        { "text": "Do nothing", "correct": false },
+        { "text": "Take credit for others' work", "correct": false },
+        { "text": "Submit something completely different", "correct": false },
+        { "text": "All of the above", "correct": true }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What’s the fastest way to disappoint your parents?",
+      "answer": [
+        { "text": "Tell them you’re skipping dinner", "correct": false },
+        { "text": "Say you’re becoming a YouTuber", "correct": true },
+        { "text": "Forget to call them once in a week", "correct": false },
+        { "text": "Complain about their cooking", "correct": false }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What’s the worst thing to forget when leaving the house?",
+      "answer": [
+        { "text": "Your phone", "correct": false },
+        { "text": "Your wallet", "correct": false },
+        { "text": "Your keys", "correct": true },
+        { "text": "Your sunglasses", "correct": false }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What’s the best way to make your neighbors hate you?",
+      "answer": [
+        { "text": "Borrow their tools and never return them", "correct": true },
+        { "text": "Play loud music at night", "correct": false },
+        { "text": "Complain about their garden", "correct": false },
+        { "text": "Ignore them at the store", "correct": false }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What’s the worst way to introduce yourself?",
+      "answer": [
+        { "text": "Talk about yourself endlessly", "correct": true },
+        { "text": "Forget to say your name", "correct": false },
+        { "text": "Mumble when you speak", "correct": false },
+        { "text": "Shake hands awkwardly", "correct": false }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "What’s the most annoying thing to hear in a movie theater?",
+      "answer": [
+        { "text": "Someone talking loudly", "correct": false },
+        { "text": "A phone ringing", "correct": false },
+        { "text": "Spoilers from the person behind you", "correct": true },
+        { "text": "Coughing nonstop", "correct": false }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "What’s the fastest way to get fired from work?",
+      "answer": [
+        { "text": "Arrive late every day", "correct": false },
+        { "text": "Steal office supplies", "correct": false },
+        { "text": "Insult your boss during a meeting", "correct": true },
+        { "text": "Miss deadlines repeatedly", "correct": false }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "What’s the most annoying thing about group chats?",
+      "answer": [
+        { "text": "Too many notifications", "correct": false },
+        { "text": "People sending irrelevant memes", "correct": false },
+        { "text": "Someone replying ‘k’ to everything", "correct": true },
+        { "text": "Off-topic discussions", "correct": false }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "What’s the best way to ruin a first date?",
+      "answer": [
+        { "text": "Talk about your ex", "correct": true },
+        { "text": "Forget your wallet", "correct": false },
+        { "text": "Arrive very late", "correct": false },
+        { "text": "Dress too casually", "correct": false }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "What’s the worst thing to say during a job interview?",
+      "answer": [
+        { "text": "I don’t know what this company does", "correct": true },
+        { "text": "What are the work hours?", "correct": false },
+        { "text": "Do you offer free snacks?", "correct": false },
+        { "text": "How long is this interview going to take?", "correct": false }
+      ]
+    }
+  ]
+  
