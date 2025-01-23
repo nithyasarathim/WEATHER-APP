@@ -1,0 +1,74 @@
+/* General styles */
+body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    font-family: 'Bahnschrift', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .weather-container {
+    text-align: center;
+    background: #f9f9f9;
+    padding: 20px 40px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    width: 50vh;
+  }
+  
+  .weather-container h1 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  input {
+    width: 100%;
+    max-width: 400px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .weather-details {
+    margin-top: 20px;
+  }
+  
+  table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td {
+    padding: 10px 15px;
+    border-bottom: 1px solid #eee;
+    text-align: left;
+    color: #555;
+  }
+  
+  td:first-child {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  img {
+    margin-top: 20px;
+    width: 80px;
+    height: 80px;
+  }
+  
+  .weather-container h2 {
+    margin-bottom: 20px;
+    color: #444;
+  }
+  
+  #sugg {
+    margin-top: 10px;
+    font-style: italic;
+    color: #666;
+  }
